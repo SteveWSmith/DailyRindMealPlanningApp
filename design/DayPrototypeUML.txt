@@ -1,0 +1,13 @@
+Class Name
+    Day_Prototype
+Constructors
+    ()
+    (DateTime)
+Properties
+    Date : DateTime
+Functions
+    GetDate() : DateTime
+    SetDate(DateTime) : void
+    OnClick() : void
+    UpdateMealList(MealList) : void
+

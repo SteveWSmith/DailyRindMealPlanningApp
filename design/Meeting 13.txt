@@ -1,0 +1,103 @@
+3/6/2019
+
+Goals
+updates - now done
+distro of work - now done
+new timeline - now done
+documentation - now done
+Presentation tomorrow - now done
+
+Steve, fetch!
+
+Going to start on important things - distro of work
+
+What screens do we have to do?
+
+-Client
+Login: Zach
+Registration: Caitlyn
+Answer Question: Caitlyn
+Put security question and answer: Jacob
+enter allergies: Steve
+calendar, main + view: Jahwaan
+list of meals, main: Katie
+meal description: Jacob
+settings: Steve
+change email: Katie
+change password: Zach
+search: Jahwaan
+search list: Jahwaan
+
+-server
+database population - Alberto
+route creation - Alberto
+database query setup - amber
+middleware calls - angelo
+
+-client and server
+route docs - already done
+server docs - er diagrams, uml diagrams, already done
+FR review - kind of general, but that's okay since they are dynamic and are expected to change - feel free to create docs for this, like user manuals
+GUI Design* - super super urgent, 2 weeks overdue apparently / Caitlyn says she has it already
+Spiral design doc
+3 method design doc
+
+Until server is finished, client can only do design
+
+Make sure that the screens are completely tested - ensure that there are no invalid inputs, make buttons unclickable as needed, etc etc
+
+=================================================================================================================================================================
+
+
+Timeline:
+
+3/6
+3/9
+3/11
+3/13
+3/15
+3/18
+3/20
+3/22
+
+From 3/8 - 3/18:
+Client Team: Design work + Navigation should be done / Do during spring break
+Server Team: Server + Testing + Server Deployment should be done as well
+
+Server needs to be done by the 18th - Client side builds on the server
+
+From 3/18 - 3/22: Client functionality should be done
+
+After the 22nd, 1st iteration of the application should be done
+Work on documentation, presentation, etc etc after that
+
+Then after docs + presentation, work on making the application pretty
+
+Documentation consists of Client UML, Dataflow Diagram, Metric Estimation - once again this will be later on
+
+Ensure that Client UML will be documented as client team goes along
+
+
+======================
+
+Status update for tomorrow:
+
+What have we done since last meeting
+Planning and design
+Selected tech
+took recommendation of using cross platform tool - using react native
+Planning stage of first protoype for the first spiral, already practiced with coding, made login, made some documentation, and created a timeline
+
+Would use the week after the 22nd for features
+Server should be fully bug checked at the 18th
+Functional Client should be fully bug checked after the 22nd
+
+=====================
+
+
+DB designed
+Schema not online yet, but should be up soon
+Routes are already set up - we just need to make function calls that are specified in UML diagram
+SQL Queries - UML diagram should have them
+Look at code right now, looks messy, but there are no comments / names should be descriptive enough
+Beyond that... that's pretty much it

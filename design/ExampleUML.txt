@@ -1,0 +1,26 @@
+Class Name : Derived
+    Goku : Sayian, iSuperSayian, iKhamahamaha
+Constructor
+    ()
+    (double)
+    (double, double)
+Properties
+    powerLevel : Double
+    height : Double
+Functions
+    raisePowerLevel(double) : void
+    lowerPowerLevel(double) : void
+    getPowerLevel() : double
+    setPowerLevel(double) : void
+    getHeight() : double
+
+### Notes ###
+jfjfjfjfj
+iSuperSayian is a interface to iSuperSayian
+Goku is derived from Sayian so Sayian is the parent to Goku... I.E. if this were java
+    you can have as many interfaces (iSuperSayian, iKhamahamaha) and only one parent
+    I.E. Sayian
+
+
+
+#############

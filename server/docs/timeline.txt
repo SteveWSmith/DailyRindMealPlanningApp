@@ -1,0 +1,134 @@
+Timeline:{
+	January 16:{
+		Pick Teams,
+		Evaluate Teammates Schedule
+	},
+	January 18:{
+		Finalize Teams
+	},
+	January 23:{
+		Brainstorm Topics,
+		Evaluate Topics,
+		Select Topic
+	},
+	January 25:{
+		Topic Reevaluation,
+		Finalize Topic
+	},
+	January 28:{
+		Identify FR and NFR,
+		Identify Components of App,
+		Identify Technologies to be used
+	},
+	February 1:{
+		Finalize FR and NFR,
+		Finalize Components of App,
+		Divide into Teams (Client and Server),
+		Create initial UI draft,
+		Functional Decomposition of Components
+	},
+	February 4:{
+		Finalize UI draft,
+		Continue Requirement Analysis
+	},
+	February 8:{
+		Finalize Functional Decomposition of Components,
+		Design Database,
+		Identify Server Functioning
+	},
+	February 11:{
+		Finalize Design of Database,
+		Server Functioning Research	
+	},
+	February 15:{
+		Select Software Engineering Methodology,
+		Server Provider Selection
+	},
+	February 18:{
+		- Meeting Cancelled
+	},
+	February 21:{
+		Finalize Software Engineering Methodology,
+		Server Functioning Explained,
+		Set standard for communication between server-client and server-db
+		Design Server Routes,
+		Software Requirement Document Started,
+		Distribution of SRS document parts,
+		Start Server Routes,
+		Start Learning ReactJS and ReactNative
+		Start Learning Python-SQL conneciton
+	},
+	February 25:{
+		Finalize Server Routes,
+		Setup Repository,
+		Download Development Tools,
+		Setup Dev Tools,
+		Practice Routes for Server,
+		Practice DB queries,
+		Practice Login Screen
+	},
+	March 1:{
+		Continue Practice,
+		Progress Report to client,
+		Modification based on client suggestions
+	},
+	March 4:{
+		- Meeting Cancelled
+	},
+	March 8:{
+		Distribution of Client and Server Work,
+		Timeline Estimation
+	},
+	March 18:{
+		Test Screens done,
+		SRS document done,
+		UI design critique,
+		Software Design Document Started
+	},
+	March 22:{
+		Software Design Document Finish
+		DB queries testing started
+	},
+	March 25:{
+		Server routes implementation started
+		Server routes testing started
+		Client merging
+		client navigation
+	},
+	March 26:{
+		server routes implemented
+		client data fetching started
+	},
+	March 27:{
+		client testing started
+	},
+	March 28:{
+		client testing finished
+	},
+	March 29:{
+		First Prototype done
+		Start Test First prototype (alpha/beta)
+	},
+	April 1:{
+		Start second prototype
+	},
+	April 5:{
+		finish second prototype
+		second prototype test (alpha/beta)
+	},
+	April 8:{
+		start third prototype
+	},
+	April 12:{
+		final release
+	},
+	April 15:{
+		Project Presentation Practice
+	},
+	Aprfil 19:{
+		Practice for Project Presentation
+	},
+	April 22:{
+		Project Presentation
+	}
+}

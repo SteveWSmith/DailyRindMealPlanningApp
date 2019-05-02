@@ -1,0 +1,11 @@
+Class Name
+    Calendar_Module
+Constructors
+    ()
+    ([7] DateTime)
+    ([7] Day_Prototype)
+Properties
+    Week : Day_Prototype [7]
+Functions
+    UpdateWeek([7] DateTime) : void
+

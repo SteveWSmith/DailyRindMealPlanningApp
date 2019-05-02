@@ -1,0 +1,19 @@
+Met with Cooper during SE Class on March 7, 2019
+Presented our work from the last time that we met
+
+Request from Slacks
+	integrate functionality to remind about epi pens / said nah fam
+	
+Where have you spent the most time? Answer: Spent the most time in the design phase
+
+Cooper said seeming like JSON object specs seem much more advanced then general specs
+Look at what we've done, fold it back in - start to ID input/output so we can reign it in
+
+Opportunity to develop more in functional requirements - it's time to update since we've done a lot of work
+
+Non-functional requirements? Doc is unfinished, don't have much
+
+If using spiral, should be getting an artifact out each rotation
+Have someone else look at artifact for client input, so we can improve
+
+Hoodie guy with glasses: Android and iOS? Said yes
